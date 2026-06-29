@@ -1,0 +1,13 @@
+Liskov Substitution Principle: All children are identical to parent
+classes and can be substituted with them.
+
+Singleton class: Has only one Instance, static funcs and mostly used as manager
+Need to take care of synchronization when creating.
+
+Factory Pattern: its an additional layer to instanciate classes in runtime
+Can be used to create different inherited classes of a class using a variable!
+
+
+Factory Pattern vs Abstract Factory Pattern?
+
+Observer Pattern: Similar to SNS, Subscribers get notified using for loop
